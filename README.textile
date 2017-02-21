@@ -1,0 +1,3 @@
+h1. Alteia - RPG
+
+This repository houses all of the information for players involved with our campaign.

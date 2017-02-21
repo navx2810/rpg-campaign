@@ -1,0 +1,45 @@
+h1. Downtime Activities
+
+While player characters are visiting or residing in towns/cities, they can participate in some non-combat, passive activities.
+
+These activities are meant to give players some objectives while the party is away from the table. During the break between each session, players will be able to choose from these activites in order to gain additional benefits depending on how the DM sees fit.
+
+Activities are usually handled by a die-roll at the start of the next session. Mostly all activities can be attributed to a stat/skill bonus. Some activities are succeed/fail while others determine how far your progressed in that certain activity.
+
+bq. NOTE: Players **are** allowed to spend *inspiration points* on all rolls for downtime activities so long as they declare it before the roll.
+
+h2. Gambling
+
+bq. You are off to a shady-part of town, where you'll find all types of scum looking to make some quick cash.
+
+Gambling allows players to place some of they money up to try and earn some more. Players can choose any amount they want to drop on gambling. The type of gambling that is available, and that they choose will determine their DC and payout multiplier.
+
+- Dice :=
+    **EASY**
+    These types of games are usually very simple and quick games that anyone can play.
+    They are also the game of choice by many cheaters and con-artists. =:
+
+- Cards / Bluffing :=
+    *Charisma*, **MODERATE**
+    These types of card games require a large amount of deception and personality. Those who have a high charisma should have a better chance at winning. =:
+
+- Cards / Competitive :=
+    *Intelligence*, **MODERATE**
+    These types of card games require knowledge of the rules and tactics in order to win. Those who have a high intelligence should have no problem winning. =:
+
+h3. Cheating
+
+Money brings out the worst in people. Mix that in with gambling and the promise of quick cash and you are bound to come across some people who will do anything to win.
+
+Players can either check for cheating, or cheat themselves.
+
+- Detecting := If a player wants to catch any cheating, they can make an additional check on intelligence or wisdom against the DC of the roll.
+- Cheating := If a player wants to cheat, they can make an additional dexterity check against the DC of the roll.
+
+Players who wish to detect or cheat, must declare their intentions before the DM makes their roll. 
+
+bq. NOTE: Players **can** spend **inspiration points** on cheating/detecting rolls too as long as they declare it before the roll.
+
+h2. Training
+
+bq. You dedicate your time to honing your skills and abilities

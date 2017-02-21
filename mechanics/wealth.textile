@@ -1,0 +1,40 @@
+h1. Wealth
+
+Wealth is a *really* tough mechanic to get right. If not properly defined, players might end up spending friviously thinking they might earn more later on. They might not even understand the value of the currency--making any bartering attempts silly. Helping your players understand the weight of their money will help them have more fun. From the get-go, the DM should decide on the actual currency used in the campaign.
+
+After you decide on the currency, you should show your players how much things usually go for in this world. How much does a loaf of bread cost? How much does it cost for room and board at a run-of-the-mill Inn? How much does a pound of metal cost? How much does a home cost? Helping them understand the value of items and services will give them a better understanding of how wealthy they are.
+
+h2. What is the currency in our world?
+
+Our nationally recognized currency is metal coins. The list of how much each metal go for is listed below.
+
+| |_. Copper( c ) |_. Silver( s ) |_. Gold( g ) |_. Platinum( p ) |
+|_. Copper |=. 1 |=. 10 |=. 100 |=. 1000 |
+|_. Silver |=. - |=. 1 |=. 10 |=. 100 |
+|_. Gold |=. - |=. - |=. 1 |=. 10 |
+|_. Platinum |=. - |=. - |=. - |=. 1 |
+
+h2. How is our money spent?
+
+|_. Goods/Services |_. Cost |
+| One pound of wheat |=. 1 c |
+| One chicken |=. 2 c |
+| One pound of iron |=. 1 s |
+| One pound of tobacco |=. 5 s |
+| One goat |=. 1 g |
+| One pig |=. 3 g |
+| One cow |=. 10 g |
+| One ox |=. 15 g |
+| One pound of gold |=. 5 p |
+| One pound of platinum |=. 50 p |
+| Guildhall |=. 500 p |
+| Stronghold |=. 1,000 p |
+
+h2. How do we gain money?
+
+There are a few ways to do that in this campaign.
+
+- Quests := See adventures guild for details on quests.
+- Commerce := See commerce for details.
+- Stealing := Players can choose to try and rob from establishments. 
+- Looting := Players who find venture into abandoned areas, dungeons, keeps, manors... may come across some money.
