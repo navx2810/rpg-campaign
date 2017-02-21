@@ -34,7 +34,7 @@ h2. How do we gain money?
 
 There are a few ways to do that in this campaign.
 
-- Quests := See adventures guild for details on quests.
-- Commerce := See commerce for details.
+- Quests := See "adventures guild":adventurers+guild.textile for details on quests.
+- Commerce := See "commerce":commerce.textile for details.
 - Stealing := Players can choose to try and rob from establishments. 
 - Looting := Players who find venture into abandoned areas, dungeons, keeps, manors... may come across some money.
