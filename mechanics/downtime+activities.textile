@@ -54,3 +54,9 @@ When a gambling event says "the odds at 3:1", the player must roll 3 die and tak
 h2. Training
 
 bq. You dedicate your time to honing your skills and abilities
+
+h2. Jobs
+
+bq. You decide that you want to make some spare change, so you do some menial labor for cash.
+
+Jobs allow the player to take on simple quests that are a fail or succeed for a small amount of money.
