@@ -40,6 +40,17 @@ Players who wish to detect or cheat, must declare their intentions before the DM
 
 bq. NOTE: Players **can** spend **inspiration points** on cheating/detecting rolls too as long as they declare it before the roll.
 
+If a player fails their cheat check -- one of these things can happen to them:
+
+- Barred := Players can no longer do that specific gambling activity at their current location anymore.
+- Mugged := Players get mugged and have some of their items and money taken away
+- Injured := Players get a severe injury that has lasting effects for a while.
+- Debt := Players amass a large debt.
+
+h3. Odds
+
+When a gambling event says "the odds at 3:1", the player must roll 3 die and take the lowest, as a disadvantage. This works opposite when the odds are in your favor. In that instance, you'd roll 3 die and take the highest, as an advantage.
+
 h2. Training
 
 bq. You dedicate your time to honing your skills and abilities
