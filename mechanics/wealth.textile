@@ -19,6 +19,7 @@ h2. How is our money spent?
 |_. Goods/Services |_. Cost |
 | One pound of wheat |=. 1 c |
 | One chicken |=. 2 c |
+| Inn room and board per night |=. 10 c |
 | One pound of iron |=. 1 s |
 | One pound of tobacco |=. 5 s |
 | One goat |=. 1 g |
