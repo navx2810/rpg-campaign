@@ -9,7 +9,7 @@ h2. What is the currency in our world?
 Our nationally recognized currency is metal coins. The list of how much each metal go for is listed below.
 
 | |_. Copper( c ) |_. Silver( s ) |_. Gold( g ) |_. Platinum( p ) |
-|_. Copper |=. 1 |=. 10 |=. 100 |=. 1000 |
+|_. Copper |=. 1 |=. 100 |=. 1,000 |=. 10,000 |
 |_. Silver |=. - |=. 1 |=. 10 |=. 100 |
 |_. Gold |=. - |=. - |=. 1 |=. 10 |
 |_. Platinum |=. - |=. - |=. - |=. 1 |
