@@ -1,1 +1,5 @@
 h1. Adventures Guild
+
+The guild is a place where anyone can make a request for adventurers to fufill. In some cases, it could be pest control. In others, it could be hit contracts.
+
+The richest trading company in the world, the Golden Ox, owns and runs these guilds, but because they are so common in these lands, it is not unheard of for smaller villages or towns to create and manage their own.
